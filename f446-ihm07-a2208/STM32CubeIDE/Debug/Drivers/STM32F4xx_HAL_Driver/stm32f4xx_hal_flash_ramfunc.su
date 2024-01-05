@@ -1,0 +1,4 @@
+C:/Users/user/Desktop/mc_sdk-install/f446-ihm07-a2208/f446-ihm07-a2208/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c:96:30:HAL_FLASHEx_StopFlashInterfaceClk	8	static
+C:/Users/user/Desktop/mc_sdk-install/f446-ihm07-a2208/f446-ihm07-a2208/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c:113:30:HAL_FLASHEx_StartFlashInterfaceClk	8	static
+C:/Users/user/Desktop/mc_sdk-install/f446-ihm07-a2208/f446-ihm07-a2208/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c:130:30:HAL_FLASHEx_EnableFlashSleepMode	8	static
+C:/Users/user/Desktop/mc_sdk-install/f446-ihm07-a2208/f446-ihm07-a2208/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c:147:30:HAL_FLASHEx_DisableFlashSleepMode	8	static

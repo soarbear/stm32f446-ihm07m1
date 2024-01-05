@@ -1,0 +1,2 @@
+C:/Users/user/Desktop/mc_sdk-install/f446-ihm07-a2208/f446-ihm07-a2208/MCSDK_v5.4.7-Full/MotorControl/MCSDK/MCLib/Any/Src/pwm_common.c:76:13:startTimers	8	static
+C:/Users/user/Desktop/mc_sdk-install/f446-ihm07-a2208/f446-ihm07-a2208/MCSDK_v5.4.7-Full/MotorControl/MCSDK/MCLib/Any/Src/pwm_common.c:108:13:waitForPolarizationEnd	16	static
